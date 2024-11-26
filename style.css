@@ -1,0 +1,24 @@
+.svg:hover .rect {
+    fill: blue;
+    stroke: red;
+    transform: scale(1.1) translateY(-3px);
+}
+
+.svg:hover .rect-lg {
+    fill: orange;
+    stroke: blue;
+    transform: scale(1.1) translateY(-3px);
+}
+
+.svg:hover .circle {
+    fill: aqua;
+    stroke: greenyellow;
+    r: 70;
+}
+
+.svg:hover .ellipse {
+    fill: red;
+    stroke: orange;
+    rx: 120;
+    ry:60;
+}
